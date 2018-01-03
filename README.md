@@ -22,3 +22,9 @@ Run test suite.
 npm test
 ```
 
+Create a production build.
+
+```
+npm run prod
+```
+
